@@ -1,0 +1,6 @@
+[package]
+name = "permutation_visualiser"
+version = "0.1.0"
+authors = ["markjordilew <mark.lewis@zappistore.com>"]
+
+[dependencies]
