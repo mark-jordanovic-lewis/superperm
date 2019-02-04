@@ -5,3 +5,4 @@ authors = ["markjordilew <mark.lewis@zappistore.com>"]
 
 [dependencies]
 # gfx-hal = "0.1.0"
+image = "*"
